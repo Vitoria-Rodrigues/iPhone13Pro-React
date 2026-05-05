@@ -1,0 +1,44 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.card h3{
+    margin-top: 1rem;
+}
+
+.card h1 {
+    font-size: 4rem;
+}
+
+.description {
+    width: 38%;
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+}
+
+.valor{
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+}
+
+ .card .btn{
+    font-size: 1.2rem;
+    padding: .8rem 1.3rem;
+    margin-bottom: 2rem;
+}
+
+img{
+    width: 60%;
+    height: auto;
+}
+
+.btn-colors{
+    display: flex;
+    gap: 3rem;
+    margin-bottom: 3rem;
+}
