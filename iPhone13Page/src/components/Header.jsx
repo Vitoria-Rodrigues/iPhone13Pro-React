@@ -7,7 +7,7 @@ const Header = () => {
         <nav>
             <ul>
                 <li>
-                    <img src={Apple} alt="Apple Icon" />
+                    <img src={Apple} alt="Apple Icon" className="apple-logo" />
                 </li>
                 <li>Loja</li>
                 <li>Mac</li>
